@@ -5,5 +5,6 @@ capture
 data/*.csv
 data/*.tsv*
 data/gadm28_levels*
+data/*.zip
 localconfig
 demo
